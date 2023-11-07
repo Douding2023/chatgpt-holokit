@@ -33,7 +33,6 @@ https://github.com/Douding2023/chatgpt-holokit/assets/148427075/bb6dd7bb-b2b3-49
 
 ## [chatgpt接入](https://github.com/zhangliwei7758/unity-AI-Chat-Toolkit)
 这是一个提供给unity开发者的工具库，用于快速实现AI聊天相关功能。目前这个库包含了对chatgpt、rwkv以及chatglm等大语言模型的api调用的代码实现以及实现了微软Azure以及百度AI的语音合成、语音识别的web api接入。在这个库我们可以通过这代码库，在unity上，快速实现跨平台的应用。
-我们的版本使其可以接入ios
 
 https://github.com/Douding2023/chatgpt-holokit/assets/148427075/a4158231-5776-4da0-af06-a0861955d95a
 
