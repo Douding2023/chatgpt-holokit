@@ -15,6 +15,10 @@ SDK目前提供了三个核心功能：
 HoloKit Unity SDK建立在ARFoundation的基础之上，兼容大多数ARFoundation功能，如图像跟踪和平面检测。使用HoloKit Unity SDK将您的ARFoundation项目升级为立体AR项目非常简单。
 
 
+https://github.com/Douding2023/chatgpt-holokit/assets/148427075/9b190196-4433-484f-998e-71c1ac646692
+
+
+
 ##[嘴型控制](https://github.com/hecomi/uLipSync)
 技术是Unity中对口型的优势。它的特点是：
 
