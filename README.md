@@ -7,8 +7,11 @@ HoloKit 是一款透视混合现实的光学头戴设备，它将你的 iPhone �
 
 SDK目前提供了三个核心功能：
 立体渲染
+
 手势跟踪
+
 手势识别
+
 立体渲染是SDK的核心特性，允许在iPhone屏幕上显示立体图像。通过将iPhone连接到HoloKit，您可以享受迷人的AR体验。利用 苹果Vision框架 ，SDK检测用户手的姿势。与LiDAR深度传感器一起，它可以让您的iPhone跟踪用户双手的3D位置。此外，SDK还可以识别捏手等手势，作为项目中特定操作的触发器。
 
 HoloKit Unity SDK建立在ARFoundation的基础之上，兼容大多数ARFoundation功能，如图像跟踪和平面检测。使用HoloKit Unity SDK将您的ARFoundation项目升级为立体AR项目非常简单。
