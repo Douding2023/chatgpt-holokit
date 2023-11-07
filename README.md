@@ -2,7 +2,7 @@
 在unity里制作AR并用于holokit
 
 
-##[holokit软件开发工具包](https://github.com/holoi/holokit-unity-sdk)
+## [holokit软件开发工具包](https://github.com/holoi/holokit-unity-sdk)
 HoloKit 是一款透视混合现实的光学头戴设备，它将你的 iPhone 变成一个强大的立体增强现实设备。使用 HoloKit Unity SDK ，开发者可以在 Unity 中创建沉浸式 AR 体验，使用 HoloKit 耳机即可观看。
 
 SDK目前提供了三个核心功能：
@@ -19,7 +19,7 @@ https://github.com/Douding2023/chatgpt-holokit/assets/148427075/9b190196-4433-48
 
 
 
-##[嘴型控制](https://github.com/hecomi/uLipSync)
+## [嘴型控制](https://github.com/hecomi/uLipSync)
 技术是Unity中对口型的优势。它的特点是：
 
 利用 作业系统 和 突发编译器 ，在不使用本机插件的情况下，在任何操作系统上运行更快。
@@ -27,4 +27,12 @@ https://github.com/Douding2023/chatgpt-holokit/assets/148427075/9b190196-4433-48
 运行 时分析和预 烘烤 处理都是可用的。 processing are available.
 预烘烤处理可与 时间 表集成。
 预烘焙的数据可以转换为 动画
+
+https://github.com/Douding2023/chatgpt-holokit/assets/148427075/bb6dd7bb-b2b3-4916-9228-5dceb528fc35
+
+
 [chatgpt接入](https://github.com/zhangliwei7758/unity-AI-Chat-Toolkit)
+
+
+https://github.com/Douding2023/chatgpt-holokit/assets/148427075/a4158231-5776-4da0-af06-a0861955d95a
+
