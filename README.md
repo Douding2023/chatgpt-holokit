@@ -20,14 +20,14 @@ https://github.com/Douding2023/chatgpt-holokit/assets/148427075/9b190196-4433-48
 
 
 ## [嘴型控制](https://github.com/hecomi/uLipSync)
-技术是Unity中对口型的优势。
+uLipSync技术是Unity中对口型的优势。
 
 
 它的特点是：
 
 利用作业系统和突发编译器，在不使用本机插件的情况下，在任何操作系统上运行更快。
-可用于创建每个字符的配置 。
-运行时分析和预烘烤处理都是可用的。 processing are available.
+可用于创建每个字符的配置。
+运行时分析和预烘烤处理都是可用的。
 预烘烤处理可与时间表集成。
 预烘焙的数据可以转换为动画。
 
