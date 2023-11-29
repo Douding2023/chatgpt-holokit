@@ -1,4 +1,4 @@
-## chatgpt-holokit![image](https://github.com/Douding2023/chatgpt-holokit/assets/148427075/44515d38-54c7-439c-b7ad-4b5c121b5c47)
+## chatgpt-holokit
 在unity里制作AR并用于holokit。
 营造一套高度复杂的增强现实（AR）环境，允许参与者对那些通常在人类认知中不被视为拥有生命的实体赋予生命的概念。然而，在这个虚拟现实的领域，这些实体享有极致的自主权，能够自行决定是否接受生命的赋予，并具备自由选择和反抗的权利。透过chatgpt的对话，传达这些实体所具备的独立思维和权利表达，从而呈现出一场引人入胜的哲学探讨。
 
@@ -48,4 +48,10 @@ https://github.com/Douding2023/chatgpt-holokit/assets/148427075/bb6dd7bb-b2b3-49
 这是一个提供给unity开发者的工具库，用于快速实现AI聊天相关功能。目前这个库包含了对chatgpt、rwkv以及chatglm等大语言模型的api调用的代码实现以及实现了微软Azure以及百度AI的语音合成、语音识别的web api接入。在这个库我们可以通过这代码库，在unity上，快速实现跨平台的应用。
 
 https://github.com/Douding2023/chatgpt-holokit/assets/148427075/a4158231-5776-4da0-af06-a0861955d95a
+
+## 作者：
+Zhao boxiong
+Luan yuyang
+Ding guijie
+
 
