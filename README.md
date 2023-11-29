@@ -1,5 +1,15 @@
-# chatgpt-holokit
-在unity里制作AR并用于holokit
+## chatgpt-holokit![image](https://github.com/Douding2023/chatgpt-holokit/assets/148427075/44515d38-54c7-439c-b7ad-4b5c121b5c47)
+在unity里制作AR并用于holokit。
+营造一套高度复杂的增强现实（AR）环境，允许参与者对那些通常在人类认知中不被视为拥有生命的实体赋予生命的概念。然而，在这个虚拟现实的领域，这些实体享有极致的自主权，能够自行决定是否接受生命的赋予，并具备自由选择和反抗的权利。透过chatgpt的对话，传达这些实体所具备的独立思维和权利表达，从而呈现出一场引人入胜的哲学探讨。
+
+
+## 作品阐述：《叛逆的非生命》
+反思权力：生命观念中的多元决策。
+人类作为所谓的“生命赋予者”，按照人类的意愿对被发现的生物命名。
+可是“被赋予者”的意愿又是什么？
+是否应该尊重被赋予物的自主性和权利？
+谁有权力赋予生命？如果生命可以被赋予，那么生命究竟是什么？![image](https://github.com/Douding2023/chatgpt-holokit/assets/148427075/cee140b4-e308-4971-974b-c6cf291f5238)
+
 
 
 ## [holokit软件开发工具包](https://github.com/holoi/holokit-unity-sdk)
